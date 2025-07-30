@@ -21,10 +21,10 @@ A sleek and responsive weather application built with **React** that fetches rea
 - ⚛️ React
 - 🌐 OpenWeatherMap API
 - 🧱 CSS
-- 
+
 ## 📦 Installation
 
 1. **Clone the repository**
-   ```
+
    git clone https://github.com/sravanipopuri2006/weather.git
- ```
+
